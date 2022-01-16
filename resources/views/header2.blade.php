@@ -1,7 +1,8 @@
 <div class="header">
     <p>Тут шапка 2</p>
-    <p><button id="del">Добавить значение в Cookie</button></p>
+    <p><button>Добавить значение в Cookie</button></p>
 </div>
+
 
 <script>
     $('button').click(function(){
